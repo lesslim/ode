@@ -3,7 +3,6 @@ from autograd import grad
 import numpy.random as random
 from matplotlib import pyplot as plt
 
-
 # условия задачи Коши
 # x0 = 0
 #x1 = np.pi/2
